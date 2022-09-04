@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DorianDudi
-- 👀 I’m interested in programming - web development (for now)
+- 👀 I’m interested in programming - web development
 - 🌱 I’m currently learning Javascript/REACT
 - 📫 How to reach me: ddorianvlad@yahoo.ro
 
